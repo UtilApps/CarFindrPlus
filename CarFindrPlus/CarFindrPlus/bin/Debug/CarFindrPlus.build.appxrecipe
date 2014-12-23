@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>JOSEPH-I7</Machine>
+    <WindowsUser>Joseph</WindowsUser>
+    <TargetPlatformIdentifier>WindowsPhoneApp</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>8caee739-7a57-4d6f-ba8c-2ff36fba8085</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\Joseph\Downloads\GitHub\CarFindrPlus\CarFindrPlus\CarFindrPlus\obj\Debug\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Joseph\Downloads\GitHub\CarFindrPlus\CarFindrPlus\CarFindrPlus\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Joseph\Downloads\GitHub\CarFindrPlus\CarFindrPlus\CarFindrPlus\bin\Debug\CarFindrPlus.exe">
+      <PackagePath>CarFindrPlus.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Joseph\Downloads\GitHub\CarFindrPlus\CarFindrPlus\CarFindrPlus\Assets\Logo.scale-240.png">
+      <PackagePath>Assets\Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Joseph\Downloads\GitHub\CarFindrPlus\CarFindrPlus\CarFindrPlus\Assets\SmallLogo.scale-240.png">
+      <PackagePath>Assets\SmallLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Joseph\Downloads\GitHub\CarFindrPlus\CarFindrPlus\CarFindrPlus\Assets\SplashScreen.scale-240.png">
+      <PackagePath>Assets\SplashScreen.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Joseph\Downloads\GitHub\CarFindrPlus\CarFindrPlus\CarFindrPlus\Assets\Square71x71Logo.scale-240.png">
+      <PackagePath>Assets\Square71x71Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Joseph\Downloads\GitHub\CarFindrPlus\CarFindrPlus\CarFindrPlus\Assets\StoreLogo.scale-240.png">
+      <PackagePath>Assets\StoreLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Joseph\Downloads\GitHub\CarFindrPlus\CarFindrPlus\CarFindrPlus\Assets\WideLogo.scale-240.png">
+      <PackagePath>Assets\WideLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Joseph\Downloads\GitHub\CarFindrPlus\CarFindrPlus\CarFindrPlus\Toolkit.Content\ApplicationBar.Add.png">
+      <PackagePath>Toolkit.Content\ApplicationBar.Add.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Joseph\Downloads\GitHub\CarFindrPlus\CarFindrPlus\CarFindrPlus\Toolkit.Content\ApplicationBar.Cancel.png">
+      <PackagePath>Toolkit.Content\ApplicationBar.Cancel.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Joseph\Downloads\GitHub\CarFindrPlus\CarFindrPlus\CarFindrPlus\Toolkit.Content\ApplicationBar.Check.png">
+      <PackagePath>Toolkit.Content\ApplicationBar.Check.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Joseph\Downloads\GitHub\CarFindrPlus\CarFindrPlus\CarFindrPlus\Toolkit.Content\ApplicationBar.Delete.png">
+      <PackagePath>Toolkit.Content\ApplicationBar.Delete.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Joseph\Downloads\GitHub\CarFindrPlus\CarFindrPlus\CarFindrPlus\Toolkit.Content\ApplicationBar.Select.png">
+      <PackagePath>Toolkit.Content\ApplicationBar.Select.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Joseph\Downloads\GitHub\CarFindrPlus\CarFindrPlus\CarFindrPlus\README_FIRST.txt">
+      <PackagePath>README_FIRST.txt</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Joseph\Downloads\GitHub\CarFindrPlus\CarFindrPlus\CarFindrPlus\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Joseph\Downloads\GitHub\CarFindrPlus\CarFindrPlus\CarFindrPlus\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Joseph\Downloads\GitHub\CarFindrPlus\CarFindrPlus\CarFindrPlus\bin\Debug\CarFindrPlus.xr.xml">
+      <PackagePath>CarFindrPlus.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Joseph\Downloads\GitHub\CarFindrPlus\CarFindrPlus\CarFindrPlus\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
